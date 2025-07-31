@@ -15,3 +15,20 @@
 <br>
 BEST_LEN403D_02.icm : 내가 생각했을 때 제일 잘 맞는 프로파일<br>
 LEN403D.icm : 그 다음 적당한 프로파일
+
+--------------------------------------------------------------------------------------
+
+I purchased a Lenovo E14 Gen 7 (Intel) laptop.
+The display model is N140JCA-ELP, and the specifications are as follows:
+
+[Specifications]
+1920 x 1200 (WUXGA), 300 nits, 45% NTSC
+[Specification Details]: https://www.panelook.com/N140JCA-ELP_Innolux_14.0_LCM_overview_69128.html
+
+When looking at the screen, it gives the impression of what is commonly referred to as a “yellowish” display.
+Therefore, I felt the need to make the screen a bit cooler in tone.
+I found an ICC profile online, which makes the screen more comfortable to look at.
+
+BEST_LEN403D_02.icm: The most accurate profile in my opinion
+
+LEN403D.icm: A reasonably suitable profile as a secondary option
